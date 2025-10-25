@@ -1,20 +1,3 @@
-/* Photoshop project for University of cairo computer science faculty
-the menu loops forever while constantly uploading filters chosen by user onto specified image.
-image should automatically open when user saves, however, if run by c++ file, code will stop after opening the image, if run by normal visual studio code
-file, it will countinue untill user presses exit.
-
-
-Authors:
-Adam Samir Farouk 20230040 Filter 1, Filter 2, Filter 7, Filter 4, Filter 22, Filter 16,
-Nour Alaa Hassan 2023045   Filter 3, Filter 6, Filter 9, Filter 12, Filter 21, Filter 19
-Aya magdi Ali Ahmed 20230084 Filter 5, Filter 8, Filter 10, Filter 11, Filter 17, Filter 18
-
-Menu was done by all of us combined.
-
-Filter 21 and 22 represent the two bonus filters from our imagination.
-
-
-*/
 
 #include <iostream>
 #include "Image_Class.h"
